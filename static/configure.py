@@ -6,7 +6,7 @@ CONFIGURE = """
 <head>
     <meta charset="utf-8">
     <title>Mamma Mia</title>
-    <link rel="icon" href="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/49647/pizza-emoji-clipart-md.png" type="image/x-icon">
+    <link rel="icon" href="https://cdn.creazilla.com/emojis/49647/pizza-emoji-clipart-md.png" type="image/x-icon">
     <title>Fast Search Example</title>
     <style>
         * {
@@ -177,7 +177,7 @@ CONFIGURE = """
 <body>
     <div id="addon">
         <div class="logo">
-            <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/49647/pizza-emoji-clipart-md.png" alt="Logo">
+            <img src="https://cdn.creazilla.com/emojis/49647/pizza-emoji-clipart-md.png" alt="Logo">
         </div>
         <h1 class="name">Mamma Mia</h1>
         <h2 class="version">v2.2.0</h2>
